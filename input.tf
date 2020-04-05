@@ -12,7 +12,7 @@ variable "image" {
 
 variable "server_name" {
   type        = string
-  description = "The name of the machine image to use for the server."
+  description = "The name of the machine to use for the server."
 }
 
 variable "region" {
